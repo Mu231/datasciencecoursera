@@ -2,7 +2,7 @@
     "path" : "C:/HelloWorld.md",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
